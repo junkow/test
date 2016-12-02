@@ -1,5 +1,4 @@
 # README.md Template
-***
 ## Headline
 ### Headline
 ##### Headline
@@ -24,6 +23,8 @@
 |align left|align right|align center|
 |a|b|c|
 
+---
+
 [example.com](https://www.example.com/)
 
 normal *italic* normal  
@@ -39,15 +40,9 @@ normal ___bold___ normal
 >引用  
 >テキストテキストテキスト
 
----
 - リスト1
   - ネスト リスト1_1
     - ネスト リスト1_1_1
 - リスト2
 
-1. 番号付き1
-    1. 番号付き1_1
-    1. 番号付き1_2
-1. 番号付き2
----
 [参考]http://qiita.com/tbpgr/items/989c6badefff69377da7
